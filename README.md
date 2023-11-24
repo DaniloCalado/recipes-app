@@ -1,6 +1,4 @@
-### Termos de uso
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+Projeto feito em react com contextAPI com html css e JS nao esqueça do básico para rodar o projeto: Npm install Npm start
 
 ---
 
