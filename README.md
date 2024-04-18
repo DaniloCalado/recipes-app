@@ -1,3 +1,10 @@
+Cesse :
+About
+https://drinks-and-foods.surge.sh/
+
+pode digitar qualquer usuario e senha (acima de 6 caracteres ) e conferir todas as funcionalidades
+
+
 Projeto feito em react com contextAPI com html css e JS nao esqueça do básico para rodar o projeto: Npm install Npm start
 
 ---
